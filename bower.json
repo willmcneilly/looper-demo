@@ -1,0 +1,8 @@
+{
+  "name": "looper-demo",
+  "private": true,
+  "dependencies": {
+      "normalize.css": "~3.0.1",
+      "jquery": "~1.11.0"
+  }
+}
